@@ -6,3 +6,5 @@ Shippable CI image for Scala on Ubuntu 16.04 with all available services. Availa
 3. 2.11.11
 4. 2.12.2
 
+**Services:**
+To check the versions of services please refer this lin https://github.com/u16all 
